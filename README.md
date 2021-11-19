@@ -1,2 +1,5 @@
 ### Veci-z-programka
-Tady budu dávát všechny kody z programka od dne 19.11.2021
+Tady budu dávat věci ze samotných prací které nám Vinkler zadal, ti co to neumi tak si to můžou procvičit nebo se naučit
+
+
+19.11.2021
